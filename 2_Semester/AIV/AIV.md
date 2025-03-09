@@ -52,3 +52,7 @@ Deklaracija funkcij ki jih ima ta objekt
 So vse metode ki komunicirajo z neko shrambo
 
 Dejanska implementacija funkcij
+
+### Singleton pattern (Vzorec edinec)
+
+![singleton](AIVslike/image.png)
